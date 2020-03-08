@@ -11,7 +11,7 @@ const Footer = class extends React.Component {
             <div className="columns">
               <div className="column is-4">
                 <section className="menu">
-                  <ul className="menu-list">
+                  {/* <ul className="menu-list">
                     <li>
                       <Link to="/" className="navbar-item">
                         Home
@@ -27,7 +27,7 @@ const Footer = class extends React.Component {
                         Contact
                       </Link>
                     </li>
-                  </ul>
+                  </ul> */}
                 </section>
               </div>
             </div>
