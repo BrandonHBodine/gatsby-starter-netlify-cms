@@ -18,11 +18,12 @@ export default class BlogIndexPage extends React.Component {
             style={{
               backgroundColor: '#00da8ce0',
               border: '5px solid #6d04f9',
+              borderRadius: '0.5rem',
               color: 'black',
               padding: '1rem',
             }}
           >
-            Latest Stories
+            Posts and stuff
           </h1>
         </div>
         <section className="section">
